@@ -64,5 +64,5 @@ Having built the multiplayer hit **Sequel5** (125,000+ downloads), this project 
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/parthshahdev/airworld.git
+   git clone https://github.com/shahparth1111/AirWorld.git
    cd airworld

@@ -23,7 +23,7 @@ AIRWORLD combines:
 
 After announcing my exit from the IT industry in 2024, I (Parth Shah) return with AIRWORLD — my boldest vision yet.
 
-Having built the multiplayer hit **Sequel5** (75,000+ downloads), this project goes far beyond games, entering the realm of **digital societies**, **sovereign kingdoms**, and **mind-interactive technology**.
+Having built the multiplayer hit **Sequel5** (70,000+ downloads), this project goes far beyond games, entering the realm of **digital societies**, **sovereign kingdoms**, and **mind-interactive technology**.
 
 ---
 

@@ -45,7 +45,7 @@ Having built the multiplayer hit **Sequel5** (70,000+ downloads), this project g
 | Backend | Dart (Flutter), Java |
 | Database | Firebase |
 | Communication | WebRTC + Custom in-ear audio module |
-| Platforms | Apple Vision Pro, Android, iOS, WebVR |
+| Platforms | VRKit, Android, iOS |
 
 ---
 
